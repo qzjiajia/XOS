@@ -1,16 +1,16 @@
 ### 大家好, 我是[翠花](https://www.nange.cn)！
 ---
 <a href="http://weibo.com/234610510">
-  <img align="left" alt="佩佩 | 新浪微博" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/weibo.svg" />
+  <img align="left" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/weibo.svg" />
 </a>
-<a href="https://www.instagram.com/nange.cn/">
-  <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/XOS/XOS/blob/master/icon/Instagram.svg" />
+<a href="https://www.instagram.com/linjj_1020/">
+  <img align="left" width="24px" src="https://github.com/XOS/XOS/blob/master/icon/Instagram.svg" />
 </a>
-<a href="https://twitter.com/PeinanXu">
-  <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Twitter.svg" />
+<a href="https://twitter.com/linjj1020">
+  <img align="left" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Twitter.svg" />
 </a>
-<a href="https://t.me/VMGirls">
-  <img align="left" alt="眼儿媚 | Telegram Channel" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Telegram.svg" />
+<a href="https://t.me/linjj1020">
+  <img align="left"  width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Telegram.svg" />
 </a>
 
 
